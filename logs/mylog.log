@@ -1,0 +1,889 @@
+[INFO ] 2023-04-21 08:36:25.040 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 08:36:25.868 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 08:36:25.897 [main] Step - Browser launch 
+[INFO ] 2023-04-21 08:36:28.228 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 08:36:31.416 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 08:36:31.686 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 08:36:37.313 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 08:36:41.642 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 08:36:41.667 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 08:36:42.537 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 08:36:46.673 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 08:36:47.344 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 08:36:47.541 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 08:36:48.514 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 08:36:49.328 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 08:36:49.330 [main] Step - Browser launch 
+[INFO ] 2023-04-21 08:36:51.469 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 08:36:56.159 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 08:36:57.372 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 08:36:57.387 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 08:36:57.536 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 15:55:10.842 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 15:55:12.279 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 15:55:13.222 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 15:55:13.297 [main] Step - Browser launch 
+[INFO ] 2023-04-21 15:55:15.233 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 15:55:20.191 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 15:55:21.639 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 15:55:21.654 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 15:55:21.872 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:06:35.953 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:06:36.900 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:06:36.973 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:06:38.911 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:06:41.720 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:06:41.849 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 16:06:46.073 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 16:06:47.085 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 16:06:47.109 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 16:06:48.447 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 16:06:53.024 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 16:06:53.212 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 16:06:53.424 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:06:54.493 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:06:55.327 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:06:55.331 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:06:57.715 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:07:03.043 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:07:04.198 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:07:04.212 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:07:04.421 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:07:55.852 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:07:56.977 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:07:56.981 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:07:57.055 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:09:16.043 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:09:18.612 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:09:18.687 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:09:20.585 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:09:23.875 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:09:23.985 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 16:09:29.146 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 16:09:33.802 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 16:09:33.840 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 16:09:35.458 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 16:09:40.076 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 16:09:40.278 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 16:09:40.495 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:09:40.739 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:09:41.609 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:09:41.617 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:09:43.304 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:09:47.473 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:09:48.615 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:09:48.622 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:09:48.843 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:10:12.356 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:10:15.563 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:10:15.678 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:10:17.854 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:10:21.236 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:10:21.339 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 16:10:25.415 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 16:10:26.489 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 16:10:26.503 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 16:10:27.823 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 16:10:32.032 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 16:10:32.306 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 16:10:32.572 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:10:32.746 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:10:33.709 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:10:33.715 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:10:35.045 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:10:37.817 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:10:38.930 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:10:38.940 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:10:39.152 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:13:01.199 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:13:02.173 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:13:02.265 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:13:04.376 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:13:07.748 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:13:07.835 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 16:13:12.181 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 16:13:13.288 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 16:13:13.308 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 16:13:14.681 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 16:13:18.962 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 16:13:19.266 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 16:13:19.455 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:13:22.381 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:13:23.445 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:13:23.447 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:13:25.689 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:13:29.021 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:13:30.564 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:13:30.574 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:13:30.784 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:16:31.766 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:16:32.883 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:16:32.979 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:16:34.840 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:16:37.692 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:16:37.795 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 16:16:42.091 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 16:16:43.227 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 16:16:43.250 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 16:16:44.692 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 16:16:48.808 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 16:16:49.860 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 16:16:50.262 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:16:53.739 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:16:54.911 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:16:54.912 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:16:56.981 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:16:59.885 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:17:00.951 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:17:00.963 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:17:01.181 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:18:30.496 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:18:31.902 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:18:34.621 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:18:34.711 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:18:36.344 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:18:40.842 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:18:42.298 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:18:42.311 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:18:42.594 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:20:16.479 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:20:16.501 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:20:16.611 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:20:18.164 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:20:20.933 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:20:24.512 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:20:24.516 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:20:24.520 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:20:26.019 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:20:29.915 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:20:31.385 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:20:31.395 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:20:31.684 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:25:48.032 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:25:48.052 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:25:48.156 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:25:50.005 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:25:52.711 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:26:06.813 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:26:06.815 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:26:06.818 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:26:08.327 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:26:11.575 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:26:13.096 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:26:13.112 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:26:13.383 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:29:06.677 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:29:06.692 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:29:06.783 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:29:08.759 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:29:11.442 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 16:29:11.563 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-21 16:29:16.247 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-21 16:29:17.528 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-21 16:29:17.554 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-21 16:29:18.879 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-21 16:29:23.034 [main] Step - Click on Save Button
+[WARN ] 2023-04-21 16:29:23.332 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-21 16:29:23.562 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:29:24.631 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:29:24.632 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:29:24.633 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:29:26.178 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:29:29.416 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:29:30.816 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:29:30.822 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:29:31.021 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 16:30:32.741 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:30:33.394 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 16:30:36.440 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 16:30:36.522 [main] Step - Browser launch 
+[INFO ] 2023-04-21 16:30:37.859 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 16:30:40.717 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:30:41.824 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 16:30:41.839 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 16:30:42.065 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 17:14:41.245 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:14:41.865 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 17:14:44.739 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:14:44.822 [main] Step - Browser launch 
+[INFO ] 2023-04-21 17:14:46.371 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 17:14:48.912 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:14:50.431 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 17:14:50.451 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:14:50.711 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 17:16:19.142 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:16:19.789 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 17:16:22.612 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:16:22.709 [main] Step - Browser launch 
+[INFO ] 2023-04-21 17:16:24.278 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 17:16:26.675 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:16:28.417 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 17:16:28.432 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:16:28.680 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 17:17:51.791 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:17:51.809 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 17:17:51.911 [main] Step - Browser launch 
+[INFO ] 2023-04-21 17:17:53.551 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 17:17:56.967 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 17:18:11.033 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:18:11.036 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 17:18:11.042 [main] Step - Browser launch 
+[INFO ] 2023-04-21 17:18:12.652 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 17:18:16.711 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:18:17.859 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 17:18:17.872 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:18:18.141 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 17:24:41.218 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:24:41.238 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 17:24:41.331 [main] Step - Browser launch 
+[INFO ] 2023-04-21 17:24:42.937 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 17:24:47.009 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 17:25:00.792 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 17:25:00.794 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 17:25:00.802 [main] Step - Browser launch 
+[INFO ] 2023-04-21 17:25:02.502 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 17:25:05.417 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:25:06.453 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 17:25:06.467 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 17:25:06.774 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 21:09:49.590 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 21:09:49.598 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 21:09:49.647 [main] Step - Browser launch 
+[INFO ] 2023-04-21 21:09:51.164 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 21:09:53.929 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 21:10:07.151 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 21:10:07.152 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 21:10:07.156 [main] Step - Browser launch 
+[INFO ] 2023-04-21 21:10:08.929 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 21:10:11.631 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 21:10:12.986 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 21:10:12.993 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 21:10:13.163 [main] Step - Closing Browser 
+[INFO ] 2023-04-21 21:13:43.242 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 21:13:43.259 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 21:13:43.313 [main] Step - Browser launch 
+[INFO ] 2023-04-21 21:13:44.807 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 21:13:48.197 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-21 21:14:06.247 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-21 21:14:06.248 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-21 21:14:06.250 [main] Step - Browser launch 
+[INFO ] 2023-04-21 21:14:07.203 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-21 21:14:10.085 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 21:14:11.748 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-21 21:14:11.763 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-21 21:14:12.045 [main] Step - Closing Browser 
+[INFO ] 2023-04-22 19:27:09.862 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-22 19:27:09.868 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-22 19:27:09.891 [main] Step - Browser launch 
+[INFO ] 2023-04-22 19:27:11.103 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-22 19:27:15.675 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-22 19:27:33.553 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-22 19:27:33.553 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-22 19:27:33.555 [main] Step - Browser launch 
+[INFO ] 2023-04-22 19:27:35.111 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-22 19:27:37.352 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-22 19:27:38.314 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-22 19:27:38.319 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-22 19:27:38.478 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 05:31:08.644 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 05:31:08.647 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 05:31:08.666 [main] Step - Browser launch 
+[INFO ] 2023-04-23 05:31:10.480 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 05:31:15.520 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 05:31:33.362 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 05:31:33.362 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 05:31:33.365 [main] Step - Browser launch 
+[INFO ] 2023-04-23 05:31:35.365 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 05:31:36.638 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 05:31:37.485 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 05:31:37.490 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 05:31:37.657 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 05:48:54.866 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 05:48:54.869 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 05:48:54.889 [main] Step - Browser launch 
+[INFO ] 2023-04-23 05:48:55.960 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 05:48:58.117 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 05:49:16.040 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 05:49:16.040 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 05:49:16.042 [main] Step - Browser launch 
+[INFO ] 2023-04-23 05:49:18.208 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 05:49:19.925 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 05:49:20.880 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 05:49:20.885 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 05:49:21.069 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 06:08:37.029 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 06:08:37.280 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 06:08:39.614 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 06:08:39.644 [main] Step - Browser launch 
+[INFO ] 2023-04-23 06:08:40.763 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 06:08:47.569 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 06:08:48.551 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 06:08:48.555 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 06:08:48.728 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 06:24:39.376 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 06:24:39.386 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 06:24:39.417 [main] Step - Browser launch 
+[INFO ] 2023-04-23 06:24:40.858 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 06:24:43.102 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 06:25:00.821 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 06:25:00.822 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 06:25:00.822 [main] Step - Browser launch 
+[INFO ] 2023-04-23 06:25:01.881 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 06:25:04.070 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 06:25:04.981 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 06:25:04.984 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 06:25:05.146 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 06:28:06.331 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 06:28:06.616 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 06:28:08.951 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 06:28:08.969 [main] Step - Browser launch 
+[INFO ] 2023-04-23 06:28:10.327 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 06:28:12.504 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 06:28:13.411 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 06:28:13.415 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 06:28:13.568 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:29:01.328 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:29:01.333 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:29:01.355 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:29:02.454 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:29:05.151 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:29:20.546 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:29:20.547 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:29:20.555 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:29:20.555 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:29:48.703 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:29:48.709 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:29:48.729 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:29:49.866 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:29:51.699 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:29:52.843 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:29:52.847 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:29:53.008 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:29:53.141 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:29:53.143 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:29:53.153 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:29:53.154 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:36:02.892 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:36:02.901 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:36:02.934 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:36:04.053 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:36:06.448 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:36:24.251 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:36:24.252 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:36:24.254 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:36:24.956 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:36:27.550 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:36:28.387 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:36:28.390 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:36:28.576 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:37:13.489 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:37:13.496 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:37:13.518 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:37:14.601 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:37:16.968 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:37:29.658 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:37:29.659 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:37:29.660 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:37:30.981 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:37:32.429 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:37:33.275 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:37:33.281 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:37:33.367 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:45:42.161 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:45:42.416 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:45:44.738 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:45:44.765 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:45:45.889 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:45:48.589 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:45:49.956 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:45:49.959 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:45:50.131 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:49:01.655 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:49:01.682 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:49:02.837 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:49:05.461 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:49:11.613 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 07:49:15.351 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 07:49:19.359 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 07:49:19.371 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 07:49:19.810 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 07:49:23.695 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 07:49:23.775 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 07:49:23.972 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:49:26.469 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:49:26.471 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:49:27.706 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:49:29.452 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:49:30.380 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:49:30.384 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:49:30.549 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:50:21.147 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:50:21.177 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:50:22.489 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:50:23.853 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:50:23.906 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 07:50:27.640 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 07:50:28.395 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 07:50:28.406 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 07:50:28.857 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 07:50:32.670 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 07:50:32.772 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 07:50:32.964 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:50:35.624 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:50:35.625 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:50:36.682 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:50:39.306 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:50:40.755 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:50:40.759 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:50:40.932 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:51:13.643 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:51:13.978 [main] Step - Setup1 logger Executed 
+[INFO ] 2023-04-23 07:51:16.458 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:51:16.473 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:51:17.566 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:51:20.678 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:51:21.707 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:51:21.710 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:51:21.853 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:53:00.670 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:53:00.715 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:53:01.817 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:53:04.019 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:53:04.063 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 07:53:10.086 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 07:53:13.884 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 07:53:13.892 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 07:53:14.469 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 07:53:18.303 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 07:53:18.391 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 07:53:18.595 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:53:21.250 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:53:21.252 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:53:21.867 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:53:23.157 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:53:24.024 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:53:24.027 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:53:24.112 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:53:46.204 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:53:46.233 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:53:47.378 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:53:50.015 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:53:50.054 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 07:53:53.784 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 07:53:54.458 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 07:53:54.467 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 07:53:54.914 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 07:53:58.767 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 07:53:58.858 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 07:53:59.040 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:54:01.656 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:54:01.659 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:54:02.317 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:54:04.932 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:54:05.878 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:54:05.882 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:54:06.025 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:54:52.952 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:54:52.984 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:54:54.014 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:54:57.082 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 07:54:57.127 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 07:55:00.898 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 07:55:01.602 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 07:55:01.615 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 07:55:02.269 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 07:55:06.082 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 07:55:06.185 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 07:55:06.370 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 07:55:09.060 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 07:55:09.064 [main] Step - Browser launch 
+[INFO ] 2023-04-23 07:55:10.024 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 07:55:13.353 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:55:14.315 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 07:55:14.319 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 07:55:14.466 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 09:49:04.577 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 09:49:04.613 [main] Step - Browser launch 
+[INFO ] 2023-04-23 09:49:06.069 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 09:49:09.080 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 09:49:09.118 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 09:49:13.123 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 09:49:13.965 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 09:49:13.971 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 09:49:14.543 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 09:49:18.422 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 09:49:18.503 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 09:49:18.707 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 09:49:21.196 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 09:49:21.197 [main] Step - Browser launch 
+[INFO ] 2023-04-23 09:49:22.245 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 09:49:24.437 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 09:49:25.935 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 09:49:25.940 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 09:49:26.110 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 09:55:34.501 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 09:55:34.538 [main] Step - Browser launch 
+[INFO ] 2023-04-23 09:55:35.646 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 09:55:37.940 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 09:55:37.989 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 09:55:41.773 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 09:55:42.465 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 09:55:42.477 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 09:55:42.892 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 09:55:46.787 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 09:55:46.879 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 09:55:47.074 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 09:55:49.519 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 09:55:49.519 [main] Step - Browser launch 
+[INFO ] 2023-04-23 09:55:50.577 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 09:55:52.324 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 09:55:53.266 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 09:55:53.269 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 09:55:53.432 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 09:59:53.111 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 09:59:53.146 [main] Step - Browser launch 
+[INFO ] 2023-04-23 09:59:54.238 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 09:59:58.032 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 09:59:58.079 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:00:01.982 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:00:02.829 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:00:02.836 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:00:03.415 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:00:07.311 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 10:00:07.390 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 10:00:07.588 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:00:10.094 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:00:10.094 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:00:11.231 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:00:13.497 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:00:14.472 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:00:14.476 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:00:14.648 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:03:51.095 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:03:51.131 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:03:52.437 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:03:54.987 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:03:55.029 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:03:58.797 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:03:59.545 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:03:59.552 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:03:59.987 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:04:03.876 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 10:04:03.978 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 10:04:04.101 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:04:06.605 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:04:06.606 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:04:07.820 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:04:10.120 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:04:11.098 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:04:11.102 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:04:11.262 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:43:24.731 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:43:24.766 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:43:26.439 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:43:28.957 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:43:29.123 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:43:32.987 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:43:33.856 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:43:33.994 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:43:34.661 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:43:38.900 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 10:43:39.117 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 10:43:39.433 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:43:41.957 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:43:41.958 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:43:43.287 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:43:45.709 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:43:46.683 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:43:46.790 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:43:47.019 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:51:47.987 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:51:48.029 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:51:49.195 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:51:52.273 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:51:52.311 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:51:58.446 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:52:01.306 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:52:01.321 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:52:01.897 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:52:05.508 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 10:52:08.272 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:52:08.275 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:52:09.411 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:52:11.247 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:52:12.213 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:52:12.217 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:52:12.406 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:53:25.653 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:53:25.681 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:53:26.336 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:53:29.172 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:53:29.217 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:53:33.030 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:53:33.776 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:53:33.783 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:53:34.202 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:53:37.818 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 10:53:40.581 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:53:40.582 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:53:41.694 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:53:44.346 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:53:45.742 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:53:45.748 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:53:45.937 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:54:23.587 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:54:23.645 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:54:24.794 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:54:26.144 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:54:26.184 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:54:29.961 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:54:30.677 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:54:30.682 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:54:31.138 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:54:35.004 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 10:54:35.097 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 10:54:35.288 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:54:37.793 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:54:37.794 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:54:39.220 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:54:41.918 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:54:43.414 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:54:43.418 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:54:43.594 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:56:44.363 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:56:44.403 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:56:46.009 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:56:48.767 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:56:48.816 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:56:52.617 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:56:53.321 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:56:53.328 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:56:53.774 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:56:57.620 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 10:56:57.714 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 10:56:57.921 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:57:00.410 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:57:00.411 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:57:01.088 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:57:03.290 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:57:04.331 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:57:04.334 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:57:04.490 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 10:59:18.477 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:59:18.533 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:59:19.659 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:59:22.422 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 10:59:22.460 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 10:59:26.235 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 10:59:26.967 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 10:59:26.971 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 10:59:27.419 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 10:59:31.009 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 10:59:33.777 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 10:59:33.779 [main] Step - Browser launch 
+[INFO ] 2023-04-23 10:59:34.883 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 10:59:36.261 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:59:37.143 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 10:59:37.149 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 10:59:37.344 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 11:01:03.823 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:01:03.904 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:01:04.615 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:01:05.997 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 11:01:06.040 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 11:01:09.802 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 11:01:10.534 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 11:01:10.540 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 11:01:10.990 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 11:01:14.907 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 11:01:15.016 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 11:01:15.190 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 11:01:17.738 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:01:17.739 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:01:19.187 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:01:21.432 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:01:22.456 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 11:01:22.459 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:01:22.535 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 11:24:21.554 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:24:21.587 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:24:22.706 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:24:24.590 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 11:24:24.634 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 11:24:28.889 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 11:24:29.652 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 11:24:29.657 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 11:24:30.109 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 11:24:33.709 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 11:24:36.474 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:24:36.476 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:24:37.588 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:24:39.979 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:24:41.030 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 11:24:41.035 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:24:41.207 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 11:26:06.855 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:26:06.889 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:26:08.340 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:26:10.093 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 11:26:10.247 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 11:26:14.174 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 11:26:15.045 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 11:26:15.176 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 11:26:15.727 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 11:26:19.655 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 11:26:22.537 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:26:22.539 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:26:23.864 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:26:26.387 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:26:27.462 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 11:26:27.570 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:26:27.854 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 11:30:04.300 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:30:04.335 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:30:05.682 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:30:08.287 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 11:30:08.433 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 11:30:12.374 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 11:30:13.235 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 11:30:13.379 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 11:30:13.982 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 11:30:17.953 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 11:30:20.807 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:30:20.809 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:30:22.129 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:30:23.765 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:30:24.816 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 11:30:24.941 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:30:25.190 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 11:31:28.461 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:31:28.489 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:31:29.785 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:31:32.121 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 11:31:32.173 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 11:31:36.004 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 11:31:36.689 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 11:31:36.695 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 11:31:37.131 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 11:31:40.720 [main] Step - Click on Save Button
+[INFO ] 2023-04-23 11:31:43.497 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 11:31:43.499 [main] Step - Browser launch 
+[INFO ] 2023-04-23 11:31:44.740 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 11:31:47.432 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:31:48.857 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 11:31:48.862 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 11:31:49.036 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:09:30.039 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:09:30.092 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:09:31.230 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:09:33.470 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 12:09:33.510 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 12:09:37.301 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 12:09:38.008 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 12:09:38.015 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 12:09:38.467 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 12:09:42.359 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 12:09:42.442 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 12:09:42.635 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:09:45.151 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:09:45.152 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:09:46.244 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:09:48.457 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:09:49.521 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 12:09:49.523 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:09:49.664 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:14:51.243 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:14:51.277 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:14:52.644 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:14:54.951 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 12:14:54.992 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 12:14:58.827 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 12:14:59.519 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 12:14:59.528 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 12:14:59.979 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 12:15:03.822 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 12:15:03.907 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 12:15:04.117 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:15:06.621 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:15:06.623 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:15:07.494 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:15:10.315 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:15:11.204 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 12:15:11.207 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:15:11.353 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:17:21.375 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:17:21.413 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:17:22.555 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:17:24.894 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 12:17:24.946 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 12:17:28.751 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 12:17:29.492 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 12:17:29.499 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 12:17:29.942 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 12:17:33.789 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 12:17:33.883 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 12:17:34.041 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:17:36.519 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:17:36.520 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:17:37.663 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:17:40.377 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:17:41.883 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 12:17:41.887 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:17:42.035 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:18:37.547 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:18:37.580 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:18:39.104 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:18:40.505 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 12:18:40.555 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 12:18:44.336 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 12:18:45.086 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 12:18:45.092 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 12:18:45.540 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 12:18:49.412 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 12:18:49.503 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 12:18:49.638 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:18:52.174 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:18:52.176 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:18:52.898 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:18:55.608 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:18:57.136 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 12:18:57.140 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:18:57.314 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:22:27.836 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:22:27.871 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:22:29.767 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:22:32.158 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 12:22:32.208 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 12:22:35.954 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 12:22:36.651 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 12:22:36.658 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 12:22:37.124 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 12:22:41.090 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 12:22:41.201 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 12:22:41.401 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:22:43.885 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:22:43.886 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:22:44.996 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:22:46.401 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:22:47.454 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 12:22:47.459 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:22:47.632 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:24:09.209 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:24:09.245 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:24:10.416 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:24:12.807 [main] Step - Test Passed : Dashboard Title match
+[INFO ] 2023-04-23 12:24:12.863 [main] Step - Click on Customer Menu 
+[INFO ] 2023-04-23 12:24:16.603 [main] Step - Click on Customer Menu item 
+[INFO ] 2023-04-23 12:24:17.334 [main] Step - Click on Add new Button 
+[WARN ] 2023-04-23 12:24:17.342 [main] Step - Test Passed : Customer page Title match
+[INFO ] 2023-04-23 12:24:17.792 [main] Step - Enter Customer info Successfully
+[INFO ] 2023-04-23 12:24:21.651 [main] Step - Click on Save Button
+[WARN ] 2023-04-23 12:24:21.764 [main] Step - Test Passed : Confirmation message is match
+[INFO ] 2023-04-23 12:24:21.966 [main] Step - Closing Browser 
+[INFO ] 2023-04-23 12:24:24.466 [main] Step - Setup logger Executed 
+[INFO ] 2023-04-23 12:24:24.467 [main] Step - Browser launch 
+[INFO ] 2023-04-23 12:24:25.932 [main] Step - Enter Username and Password 
+[WARN ] 2023-04-23 12:24:28.618 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:24:30.108 [main] Step - User Click on LogoutBtn
+[WARN ] 2023-04-23 12:24:30.111 [main] Step - Test Passed : Login Page Title match 
+[INFO ] 2023-04-23 12:24:30.261 [main] Step - Closing Browser 
